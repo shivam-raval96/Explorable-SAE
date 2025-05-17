@@ -1,6 +1,6 @@
 {
-  "name": "differentiable-parameterizations",
-  "private": true,
+  "name": "SAEs",
+  "private": false,
   "homepage": "https://shivam-raval96.github.io/Explorable-SAE",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --hot",

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Explorable-SAE/static/js/main.3e721acf.js",
+    "index.html": "/Explorable-SAE/index.html",
+    "static/media/index.ejs": "/Explorable-SAE/static/media/index.c4bc5f3eadc276e1342b.ejs",
+    "static/media/svelte-example.svelte": "/Explorable-SAE/static/media/svelte-example.b3271f401be11edec341.svelte",
+    "main.3e721acf.js.map": "/Explorable-SAE/static/js/main.3e721acf.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3e721acf.js"
+  ]
+}
